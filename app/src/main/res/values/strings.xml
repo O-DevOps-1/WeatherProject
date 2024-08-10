@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_tab1">Current Weather</string>
+    <string name="title_tab2">Forecast</string>
+    <string name="title_tab3">Map</string>
+</resources>
